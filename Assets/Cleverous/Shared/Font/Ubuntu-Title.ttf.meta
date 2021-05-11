@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 06f304fbea93c604b88b8291e27df8f0
+timeCreated: 1495327634
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ubuntu-Title
+  fontNames:
+  - Ubuntu-Title
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

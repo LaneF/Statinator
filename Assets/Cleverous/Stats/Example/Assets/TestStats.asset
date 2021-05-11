@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145f714a93733764fbc23cead5adaa8e, type: 3}
+  m_Name: TestStats
+  m_EditorClassIdentifier: 
+  Stats:
+  - UnregulatedValue: 1
+    Modifiers: []
+    IsReady: 0
+    _rBase: 100
+    _rActual: 100
+    _rMin: 0
+    _rMax: 100
+    _rAffinity: 0
+    _rMaxAffinity: 8
+  - UnregulatedValue: 1
+    Modifiers: []
+    IsReady: 0
+    _rBase: 100
+    _rActual: 100
+    _rMin: 0
+    _rMax: 100
+    _rAffinity: 0
+    _rMaxAffinity: 8
+  - UnregulatedValue: 1
+    Modifiers: []
+    IsReady: 0
+    _rBase: 1
+    _rActual: 1
+    _rMin: 1
+    _rMax: 1000
+    _rAffinity: 1
+    _rMaxAffinity: 0
+  - UnregulatedValue: 1
+    Modifiers: []
+    IsReady: 0
+    _rBase: 0
+    _rActual: 0
+    _rMin: 0
+    _rMax: 1000
+    _rAffinity: 0
+    _rMaxAffinity: 1000
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 450
+    _rActual: 450
+    _rMin: 450
+    _rMax: 6000
+    _rAffinity: 0
+    _rMaxAffinity: 50
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 10
+    _rActual: 3
+    _rMin: 1
+    _rMax: 1000
+    _rAffinity: 0.1
+    _rMaxAffinity: 0
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 10
+    _rActual: 2
+    _rMin: 1
+    _rMax: 1000
+    _rAffinity: 0.1
+    _rMaxAffinity: 0
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 10
+    _rActual: 2
+    _rMin: 1
+    _rMax: 1000
+    _rAffinity: 2
+    _rMaxAffinity: 0
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 12
+    _rActual: 3
+    _rMin: 1
+    _rMax: 1000
+    _rAffinity: 3
+    _rMaxAffinity: 0
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 0.5
+    _rActual: 0.5
+    _rMin: 0
+    _rMax: 1000
+    _rAffinity: 0.25
+    _rMaxAffinity: 0
+  - UnregulatedValue: 0
+    Modifiers: []
+    IsReady: 0
+    _rBase: 0.5
+    _rActual: 0.5
+    _rMin: 0
+    _rMax: 1000
+    _rAffinity: 0.25
+    _rMaxAffinity: 0
